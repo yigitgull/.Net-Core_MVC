@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{0A31F30C-D67F-4200-B704-A06926972306}|https" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Concrete/ProductManager.cs">
+    <Files>
+      <File FileName="ConsoleUI/Program.cs" />
+      <File FileName="Business/Concrete/ProductManager.cs" Line="20" Column="2" />
+      <File FileName="Entities/Concrete/Product.cs" />
+      <File FileName="WebAPI/Controllers/AuthController.cs" />
+      <File FileName="Entities/DTOs/UserForLoginDto.cs" />
+      <File FileName="Entities/DTOs/ProductDetailDto.cs" />
+      <File FileName="Core/Entities/Concrete/User.cs" />
+      <File FileName="Core/Entities/Concrete/UserOperationClaim.cs" />
+      <File FileName="DataAccess/Concrete/EntityFramework/EfUserDal.cs" />
+      <File FileName="Business/Concrete/AuthManager.cs" />
+      <File FileName="WebAPI/appsettings.json" />
+      <File FileName="WebAPI/Startup.cs" />
+      <File FileName="WebAPI/Program.cs" />
+      <File FileName="Business/BusinessAspects/Autofac/SecuredOperation.cs" />
+      <File FileName="Business/Absract/IProductService.cs" />
+      <File FileName="WebAPI/Controllers/ProductsController.cs" />
+      <File FileName="Business/Constants/Messages.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QRMenu" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Concrete" expanded="True">
+                <Node name="ProductManager.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ConsoleUI" expanded="True" />
+            <Node name="Core" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
